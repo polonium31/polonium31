@@ -25,6 +25,9 @@
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/jainish31/)
 - Actively Looking for Internships.
 
+<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=polonium31&show_icons=true&count_private=true&title_color=e6005c&theme=cobalt" alt="Jainish's github stats" />
+<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonium31&layout=compact&title_color=e6005c&theme=tokyonight" />
+
 
 ### **Languages**
 <code><img height="60" src="https://github.com/polonium31/polonium31/blob/main/images/c.png"></code>
@@ -55,8 +58,6 @@
 <code><img height="60" src="https://github.com/polonium31/polonium31/blob/main/images/vscode.png"></code>
 <code><img height="60" src="https://github.com/polonium31/polonium31/blob/main/images/atom.png"></code>
 
-<img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=polonium31&show_icons=true&count_private=true&title_color=e6005c&theme=cobalt" alt="Jainish's github stats" />
-<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonium31&layout=compact&title_color=e6005c&theme=tokyonight" />
 
 <p align="center"> 
   Visitor count<br>
