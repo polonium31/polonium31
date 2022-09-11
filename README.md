@@ -26,7 +26,7 @@
 - Actively Looking for Internships.
 
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=polonium31&show_icons=true&count_private=true&title_color=e6005c&theme=cobalt" alt="Jainish's github stats" />
-<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonium31&layout=compact&title_color=e6005c&theme=tokyonight" />
+<img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonium31&title_color=e6005c&theme=tokyonight" />
 
 
 ### **Languages**
