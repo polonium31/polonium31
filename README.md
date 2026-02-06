@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jainish%20Patel%20👋&fontSize=50&animation=fadeIn" alt="Header" />
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jainish%20Patel%20👋&fontSize=50&animation=fadeIn" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Data%20Engineer%20|%20Data%20Wrangler%20|%20Data%20Analyst%20|%20Business%20Analyst-6f42c1?style=for-the-badge&logo=target&logoColor=white" alt="Open to Work" />
+</div>
+
+<div align="center">
 
   ### 🧑🏻‍🎓 MEng @ McMaster University | 🚜 Former BI Developer Intern @ John Deere, Canada
   
@@ -18,7 +25,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=MEng+Student+@+McMaster;Data+Engineering+Enthusiast;Full-Stack+Web+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -83,16 +90,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=polonium31&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polonium31&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polonium31&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
